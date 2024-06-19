@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 ![img.png](img.png)
-![img.gif]("C:\Users\HP\Downloads\107119496-8cc72800-68ba-11eb-96c6-9bc8efe1a898 (1).gif")
+<img src="&quot;C:\Users\HP\Downloads\107119496-8cc72800-68ba-11eb-96c6-9bc8efe1a898 (1).gif&quot;"/>("C:\Users\HP\Downloads\107119496-8cc72800-68ba-11eb-96c6-9bc8efe1a898 (1).gif")
 
 ## Package 
 https://pub.dev/packages/google_nav_bar
