@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 ![img.png](img.png)
+https://user-images.githubusercontent.com/13378059/107119496-8cc72800-68ba-11eb-96c6-9bc8efe1a898.gif
 ## Package 
 https://pub.dev/packages/google_nav_bar
